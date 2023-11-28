@@ -7,7 +7,7 @@ Prework application for IOS102 Intermediate iOS Development
 
 ### App Walk-though
 
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<img src="https://github.com/djc-swe/IOS102-Prework/blob/main/IOS102.gif" width=200><br>
 
 ### Required Features
 
