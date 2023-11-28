@@ -7,7 +7,7 @@ Prework application for IOS102 Intermediate iOS Development
 
 ### App Walk-though
 
-<img src="https://github.com/djc-swe/IOS102-Prework/blob/main/IOS102.gif" width=200><br>
+<img src="https://github.com/djc-swe/IOS102-Prework/blob/main/IOS102.gif" width=300><br>
 
 ### Required Features
 
